@@ -1,7 +1,7 @@
 ---
 title: High-Protein Low-Sugar Saffron Peda
-category: faradi
-tags: [faradi, no-onion-garlic, mithai, peda, high-protein, low-sugar, saffron]
+category: mithai
+tags: [mithai, peda, high-protein, low-sugar, saffron, no-onion-garlic]
 servings: 10-12 peda
 prep_time: 15 min
 cook_time: 15 min
@@ -9,7 +9,7 @@ cook_time: 15 min
 
 # High-Protein Low-Sugar Saffron Peda
 
-A modern take on malai peda — same mithai richness, but with whey protein folded in and Besti (monk-fruit/allulose) instead of sugar. Naked Whey concentrate works best here because it tastes like milk solids, not gym supplement. No onion, no garlic.
+A modern take on malai peda — same mithai richness, but with whey protein folded in and Besti (monk-fruit/allulose) instead of sugar. Naked Whey concentrate works best here because it tastes like milk solids, not gym supplement.
 
 ## Ingredients
 
