@@ -15,6 +15,7 @@ A personal collection of recipes I cook at home. Primary focus is **faradi** —
 ### Faradi
 
 - [Faradi Pasta](recipes/faradi/faradi-pasta.md)
+- [High-Protein Low-Sugar Saffron Peda](recipes/faradi/high-protein-saffron-peda.md)
 
 ## Adding a recipe
 
