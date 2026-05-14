@@ -20,6 +20,7 @@ A personal collection of recipes I cook at home. Primary focus is **faradi** —
 ### Mithai
 
 - [High-Protein Low-Sugar Saffron Peda](recipes/mithai/high-protein-saffron-peda.md)
+- [Low-Sugar Paneer Rasgulla](recipes/mithai/low-sugar-rasgulla.md)
 
 ## Adding a recipe
 
