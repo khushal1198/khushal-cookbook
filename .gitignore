@@ -1,0 +1,7 @@
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Claude Code memory store (local-only)
+memory/
