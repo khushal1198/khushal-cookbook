@@ -14,9 +14,9 @@ Rasgulla made with store-bought paneer and a monk-fruit sweetener syrup instead 
 
 ## Ingredients
 
-- Store-bought paneer — kneaded smooth and rolled into small/medium balls
-- Water — enough to comfortably hold the balls in one layer
-- Monk fruit sweetener — to taste (forms the cooking syrup along with water)
+- Store-bought paneer — 1 kg, kneaded smooth and rolled into small/medium balls
+- Water — ~1 L (enough to comfortably hold the balls in one layer)
+- Monk fruit + erythritol sweetener — 300 g (1:1 sugar replacement)
 
 ## Steps
 
