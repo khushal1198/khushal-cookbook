@@ -5,6 +5,7 @@ A personal collection of recipes I cook at home. Primary focus is **faradi** —
 ## Structure
 
 - `recipes/faradi/` — fasting recipes (no onion, no garlic, fasting-compliant ingredients)
+- `recipes/mithai/` — Indian sweets
 - `recipes/breakfast/`
 - `recipes/mains/`
 - `recipes/sides/`
@@ -15,7 +16,10 @@ A personal collection of recipes I cook at home. Primary focus is **faradi** —
 ### Faradi
 
 - [Faradi Pasta](recipes/faradi/faradi-pasta.md)
-- [High-Protein Low-Sugar Saffron Peda](recipes/faradi/high-protein-saffron-peda.md)
+
+### Mithai
+
+- [High-Protein Low-Sugar Saffron Peda](recipes/mithai/high-protein-saffron-peda.md)
 
 ## Adding a recipe
 
