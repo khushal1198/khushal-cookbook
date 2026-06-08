@@ -22,6 +22,12 @@ A personal collection of recipes I cook at home. Primary focus is **faradi** —
 - [High-Protein Low-Sugar Saffron Peda](recipes/mithai/high-protein-saffron-peda.md)
 - [Low-Sugar Paneer Rasgulla](recipes/mithai/low-sugar-rasgulla.md)
 
+### Mains
+
+- [Jain Paneer Tikka Masala (No Onion, No Garlic, High Protein)](recipes/mains/jain-paneer-tikka-masala.md) — full sabzi, made fresh
+- [Jain Paneer Tikka Gravy Base (Freezer Batch)](recipes/mains/jain-paneer-tikka-gravy-base-freezer.md) — 4x bulk gravy, frozen in molds for weeknight use
+- [Jain Paneer Butter Masala (No Onion, No Garlic)](recipes/mains/jain-paneer-butter-masala.md) — earlier reference recipe (Aanal Kotak)
+
 ## Adding a recipe
 
 1. Copy `templates/recipe-template.md` into the right category folder.
